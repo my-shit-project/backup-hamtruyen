@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/my-shit-project/backup-hamtruyen/issues"
   },
-  "homepage": "https://github.com/my-shit-project/backup-hamtruyen#readme"
+  "homepage": "https://github.com/my-shit-project/backup-hamtruyen#readme",
+  "dependencies": {
+    "youtube-dl": "^2.0.1"
+  }
 }

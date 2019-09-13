@@ -15,4 +15,8 @@ video.on('info', function(info) {
   console.log(info);
 })
 
-// video.pipe(fs.createWriteStream('./myvideo.mp4')) 
+// video.pipe(fs.createWriteStream('./myvideo.mp4'))
+
+module.export = function(url, onInfo,onFinish, onError){
+
+}
